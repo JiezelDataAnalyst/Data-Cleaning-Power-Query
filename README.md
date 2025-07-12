@@ -12,7 +12,7 @@ Key Techniques Applied
 
 •	Row Unpivoting: Transformed wide tables into long format for better trend analysis and category segmentation.
 
-•	Conditional Formatting: Applied logic to standardize labels (used consistent rules or methods to make sure the labels (names, categories, tags, etc.) in the dataset are uniform.
+•	Conditional Formatting: Applied logic to standardize labels (used consistent rules or methods to make sure the labels (names, categories, tags, etc.) in the dataset are uniform
 , flag outliers (identified data points that are unusually high or low compared to the rest), and fix structural inconsistencies (made sure the data is organized the same way across the board).
 
 Outcome
